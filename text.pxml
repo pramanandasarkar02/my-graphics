@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drawing>
+    <dot x="201" y="175"/>
+    <dot x="199" y="168"/>
+    <dot x="199" y="168"/>
+    <dot x="191" y="134"/>
+    <dot x="204" y="98"/>
+    <line x1="117" x2="284" y1="36" y2="87"/>
+    <rect height="176" width="5" x="238" y="41"/>
+    <rect height="79" width="110" x="244" y="134"/>
+    <rect height="99" width="11" x="90" y="113"/>
+    <rect height="67" width="209" x="128" y="216"/>
+</drawing>
